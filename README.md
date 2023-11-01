@@ -1,3 +1,4 @@
-# web-development
+# Simon-Game
 
-projects
+A front end project
+Using HTML CSS JavaScript
